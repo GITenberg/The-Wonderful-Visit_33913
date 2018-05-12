@@ -18,6 +18,8 @@ description: "The Wonderful Visit is an 1895 novel by H. G. Wells. With an angel
   \ the genre was not recognised in Wells's time. The Wonderful Visit also has strong\
   \ satirical themes, gently mocking customs and institutions of Victorian England\
   \ as well as idealistic rebellion itself.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33913#The-Wonderful-Visit
 gutenberg_issued: '2010-10-19'
 gutenberg_type: Text
 identifiers:
